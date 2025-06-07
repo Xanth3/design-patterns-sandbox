@@ -1,0 +1,65 @@
+## Build results
+bin/
+obj/
+out/
+build/
+[Bb]uild/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Test output
+TestResults/
+*.coverage
+*.coveragexml
+*.vspx
+*.vsp
+*.sap
+
+## ASP.NET / Blazor secrets and local settings
+appsettings.Development.json
+secrets.json
+*.pfx
+*.key
+*.cer
+.env
+.env.*
+
+## Rider
+.idea/
+
+## VS Code
+.vscode/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+
+## Others
+*.log
+*.bak
+*.tmp
+*.old
+*.orig
+*.rej
+
+## macOS
+.DS_Store
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Linux
+*~
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
