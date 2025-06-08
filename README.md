@@ -52,7 +52,7 @@ I welcome contributions! This is largely a side project to build up over time. W
 - [ ] Factory Method
 - [ ] Strategy
 - [ ] Adapter
-- [ ] Observer  
+- [x] **Observer** (Behavioural)  
 *(... more coming soon!)*
 
 ---
