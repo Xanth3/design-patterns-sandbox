@@ -50,7 +50,7 @@ I welcome contributions! This is largely a side project to build up over time. W
 
 - [x] **Singleton** (Creational)
 - [ ] Factory Method
-- [ ] Strategy
+- [x] **Strategy** (Behavioural)
 - [ ] Adapter
 - [x] **Observer** (Behavioural)  
 *(... more coming soon!)*
