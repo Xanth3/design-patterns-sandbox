@@ -49,7 +49,7 @@ I welcome contributions! This is largely a side project to build up over time. W
 ## 🧠 Patterns Currently Implemented
 
 - [x] **Singleton** (Creational)
-- [ ] Factory Method
+- [x] **Factory Method** (Creational)
 - [x] **Strategy** (Behavioural)
 - [ ] Adapter
 - [x] **Observer** (Behavioural)  

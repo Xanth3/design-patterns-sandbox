@@ -1,5 +1,3 @@
-using System;
-
 namespace DesignPatterns.Sandbox.Creational.Singleton
 {
     public sealed class Singleton
