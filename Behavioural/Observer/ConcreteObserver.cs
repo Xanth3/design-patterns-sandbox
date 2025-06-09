@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace DesignPatterns.Sandbox.Behavioural.Observer
+namespace Design.Patterns.Sandbox.Behavioural.Observer
 {
     public class ConcreteObserver : IObserver
     {

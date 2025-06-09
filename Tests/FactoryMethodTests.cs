@@ -1,7 +1,7 @@
 using Xunit;
-using DesignPatterns.Sandbox.Creational.FactoryMethod;
+using Design.Patterns.Sandbox.Creational.FactoryMethod;
 
-namespace DesignPatterns.CSharp.Sandbox.Tests
+namespace Design.Patterns.Sandbox.Tests
 {
     public class FactoryMethodTests
     {

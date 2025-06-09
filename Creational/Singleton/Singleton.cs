@@ -1,4 +1,4 @@
-namespace DesignPatterns.Sandbox.Creational.Singleton
+namespace Design.Patterns.Sandbox.Creational.Singleton
 {
     public sealed class Singleton
     {

@@ -1,7 +1,7 @@
 using Xunit;
-using DesignPatterns.Sandbox.Creational.Singleton;
+using Design.Patterns.Sandbox.Creational.Singleton;
 
-namespace DesignPatterns.Sandbox.Tests
+namespace Design.Patterns.Sandbox.Tests
 {
     public class SingletonTests
     {

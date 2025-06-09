@@ -1,4 +1,4 @@
-namespace DesignPatterns.Sandbox.Behavioural.Strategy
+namespace Design.Patterns.Sandbox.Behavioural.Strategy
 {
     public class ZipCompression : ICompressionStrategy
     {

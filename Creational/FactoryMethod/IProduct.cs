@@ -1,4 +1,4 @@
-namespace DesignPatterns.Sandbox.Creational.FactoryMethod
+namespace Design.Patterns.Sandbox.Creational.FactoryMethod
 {
     public interface IProduct
     {

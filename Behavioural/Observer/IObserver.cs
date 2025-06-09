@@ -1,4 +1,4 @@
-namespace DesignPatterns.Sandbox.Behavioural.Observer
+namespace Design.Patterns.Sandbox.Behavioural.Observer
 {
     public interface IObserver
     {

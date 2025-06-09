@@ -1,7 +1,7 @@
 using Xunit;
-using DesignPatterns.Sandbox.Behavioural.Observer;
+using Design.Patterns.Sandbox.Behavioural.Observer;
 
-namespace DesignPatterns.CSharp.Sandbox.Tests
+namespace Design.Patterns.Sandbox.Tests
 {
     public class ObserverTests
     {

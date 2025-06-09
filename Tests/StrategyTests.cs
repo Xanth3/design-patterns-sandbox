@@ -1,7 +1,7 @@
 using Xunit;
-using DesignPatterns.Sandbox.Behavioural.Strategy;
+using Design.Patterns.Sandbox.Behavioural.Strategy;
 
-namespace DesignPatterns.CSharp.Sandbox.Tests
+namespace Design.Patterns.Sandbox.Tests
 {
     public class StrategyTests
     {
