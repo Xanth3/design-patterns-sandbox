@@ -51,9 +51,9 @@ I welcome contributions! This is largely a side project to build up over time. W
 - [x] **Singleton** (Creational)
 - [x] **Factory Method** (Creational)
 - [x] **Strategy** (Behavioural)
-- [x] **Adapter** (Structural)
 - [x] **Observer** (Behavioural)  
-*(... more coming soon!)*
+- [x] **Adapter** (Structural)
+- [x] **Decorator** (Structural)
 
 ---
 
