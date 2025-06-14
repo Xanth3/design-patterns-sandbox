@@ -1,10 +1,16 @@
 # Singleton Pattern
 
-This folder contains a C# implementation of the Singleton design pattern.
+**Category:** Creational
 
-## Description
+The Singleton pattern ensures a class has only one instance and provides a global point of access to it.
 
-Ensures a class has only one instance and provides a global point of access to it.
+---
+
+## Structure
+
+- `Singleton` – The class that manages its sole instance and provides access to it.
+
+---
 
 ## Usage
 
@@ -12,3 +18,10 @@ Ensures a class has only one instance and provides a global point of access to i
 var instance = Singleton.Instance;
 Console.WriteLine(instance.GetMessage());
 ```
+
+---
+
+## When to Use
+
+- When exactly one instance of a class is needed across the system.
+- When controlled access to a shared resource is required.
