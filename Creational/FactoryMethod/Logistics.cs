@@ -8,7 +8,6 @@ namespace Design.Patterns.Sandbox.Creational.FactoryMethod
             return product.Transport();
         }
 
-        // Factory Method
         protected abstract IProduct CreateTransport();
     }
 
