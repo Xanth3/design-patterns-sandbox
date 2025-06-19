@@ -52,6 +52,7 @@ I welcome contributions! This is largely a side project to build up over time. W
 - [x] **Factory Method** (Creational)
 - [x] **Strategy** (Behavioural)
 - [x] **Observer** (Behavioural)  
+- [x] **Command** (Behavioural)  
 - [x] **Adapter** (Structural)
 - [x] **Decorator** (Structural)
 
