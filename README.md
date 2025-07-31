@@ -56,6 +56,7 @@ I welcome contributions! This is largely a side project to build up over time. W
 - [x] **Command** (Behavioural)  
 - [x] **Adapter** (Structural)
 - [x] **Decorator** (Structural)
+- [x] **Proxy** (Structural)
 
 ---
 
