@@ -59,6 +59,7 @@ I welcome contributions! This is largely a side project to build up over time. W
 - [x] **Decorator** (Structural)
 - [x] **Proxy** (Structural)
 - [x] **Composite** (Structural)
+- [x] **Facade** (Structural)
 
 ---
 
