@@ -50,6 +50,7 @@ I welcome contributions! This is largely a side project to build up over time. W
 
 - [x] **Singleton** (Creational)
 - [x] **Factory Method** (Creational)
+- [x] **Abstract Factory** (Creational)
 - [x] **Strategy** (Behavioural)
 - [x] **Observer** (Behavioural)  
 - [x] **Builder** (Behavioural)  
