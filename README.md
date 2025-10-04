@@ -55,6 +55,7 @@ I welcome contributions! This is largely a side project to build up over time. W
 - [x] **Observer** (Behavioural)  
 - [x] **Builder** (Behavioural)  
 - [x] **Command** (Behavioural)  
+- [x] **Chain of Responsibility** (Behavioural)  
 - [x] **State** (Behavioural) 
 - [x] **Adapter** (Structural)
 - [x] **Decorator** (Structural)

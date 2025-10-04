@@ -34,6 +34,9 @@ secrets.json
 ## VS Code
 .vscode/
 
+## Claude
+.claude
+
 ## NuGet
 *.nupkg
 *.snupkg
